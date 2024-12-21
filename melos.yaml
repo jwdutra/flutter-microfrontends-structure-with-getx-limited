@@ -16,9 +16,7 @@ dev_dependencies:
 
 command:
   bootstrap:
-    usePubspecOverrides: false
-    run: flutter pub get
-  run: rm pubspec_overrides.yaml
+    usePubspecOverrides: true
 
 scripts:
   analyze:
