@@ -1,0 +1,31 @@
+name: microapps
+
+packages:
+  - ./**
+  - ./modules/**
+
+ignore:
+  - .fvm/**
+  - mvvm/**
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0  
+  mocktail: ^1.0.4
+
+command:
+  bootstrap:
+    usePubspecOverrides: false
+    run: flutter pub get
+  run: rm pubspec_overrides.yaml
+
+scripts:
+  analyze:
+    exec: dart analyze .
+  outdated:
+    exec: flutter pub outdated
+  test:
+    exec: flutter test
+
+

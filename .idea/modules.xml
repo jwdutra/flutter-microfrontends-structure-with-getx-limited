@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modules/access/melos_access.iml" filepath="$PROJECT_DIR$/modules/access/melos_access.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/melos_commons.iml" filepath="$PROJECT_DIR$/commons/melos_commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/melos_core.iml" filepath="$PROJECT_DIR$/core/melos_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/home/melos_home.iml" filepath="$PROJECT_DIR$/modules/home/melos_home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/melos_mvvm_microapp.iml" filepath="$PROJECT_DIR$/main/melos_mvvm_microapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_microapps.iml" filepath="$PROJECT_DIR$/melos_microapps.iml" />
+    </modules>
+  </component>
+</project>
