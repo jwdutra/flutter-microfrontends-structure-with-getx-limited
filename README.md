@@ -63,7 +63,7 @@ A estrutura ainda poderia conter um design system, acoplado ao commons e exposto
 
 Melos é uma ferramenta de gerenciamento de pacotes para projetos Flutter e Dart que facilita o gerenciamento de múltiplos pacotes dentro de um monorepo. Ele permite executar comandos em todos os pacotes, gerenciar dependências, versionamento e publicação de pacotes de forma eficiente. Melos é especialmente útil para grandes projetos que contêm vários pacotes interdependentes, ajudando a manter a consistência e simplificando o fluxo de trabalho de desenvolvimento.
 
-[https://melos.invertase.dev/]([https://melos.invertase.dev)
+[https://melos.invertase.dev/](https://melos.invertase.dev)
 
 **Estrutura de rotas, gestão de dependências e gestão de estado**
 
