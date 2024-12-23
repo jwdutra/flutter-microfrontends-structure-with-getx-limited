@@ -106,3 +106,12 @@ Alguns packages mais populares e nativos que substituiriam o Getx, caso opte por
   * Get_it, provider, implementaçao nativa.
 * gerenciamento de estado
   * Provider, Riverpod, Bloc, Redux, Mobx, Signal, ChangeNotifier/ValueNotifies (nativo), StreamBuilder(nativo), setState (nativo)
+
+
+Para executar o aplicativo, verifique a versão do flutter utilizada e considere também estudar os recursos do Melos, que auxilia muito no gerenciamento dos módulos do projeto.
+
+Versão do Flutter: 3.27.0
+
+Versão do Dart: 3.6.0
+
+Versão do Melos: 6.2.0
