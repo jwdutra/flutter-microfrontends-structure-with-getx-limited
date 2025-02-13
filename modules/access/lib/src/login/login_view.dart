@@ -20,6 +20,7 @@ class LoginView extends StatelessWidget {
             Text(controller.name),
             ElevatedButton(
               onPressed: () {
+                // teste de PR
                 Get.toNamed(AppRoute.home.initial);
               },
               child: Text('Ir para a home'),
